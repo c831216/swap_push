@@ -1,1 +1,2 @@
-# swap_push
+# push_swap
+push swap and checker 
